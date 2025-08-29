@@ -1,0 +1,12 @@
+site_name: 'some-app-10'
+site_description: 'Main documentation for the some-app-10 project'
+repo_url: https://github.com/mr-jarek/some-app-10
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
